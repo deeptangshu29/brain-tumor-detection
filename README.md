@@ -35,12 +35,6 @@ The dataset is available in the repository:
 - Matplotlib
 - Mask R-CNN
 
-## 📜 Usage
-Run the following command to start detection:
-
-```bash
-python detect_tumor.py --image path/to/image.jpg
-```
 
 ## 🖼 Sample Output
 ![Sample Output](https://github.com/deeptangshu29/brain-tumor-detection/blob/main/sample_output.png)
