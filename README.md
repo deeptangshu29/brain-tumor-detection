@@ -19,11 +19,11 @@ The dataset is available in the repository:
 - [Brain Tumor Dataset](https://github.com/deeptangshu29/brain-tumor-detection)
 
 ## 🚀 Features
-✅ Deep learning-based tumor detection
-✅ Uses **Mask R-CNN** for segmentation
-✅ Pre-trained models for enhanced accuracy
-✅ Visualization of detected tumors
-✅ Supports real-time inference
+✅ Deep learning-based tumor detection <br/>
+✅ Uses **Mask R-CNN** for segmentation <br/>
+✅ Pre-trained models for enhanced accuracy <br/>
+✅ Visualization of detected tumors <br/>
+✅ Supports real-time inference <br/>
 
 
 ## 🛠 Dependencies
